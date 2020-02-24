@@ -352,7 +352,11 @@
   <p>Entrer Votre identifiant Unique:</p>
 
   <div class="card-container">
-
+    <div *ngIf="userData">
+      <img [src]='userData.path'/>
+      <h1>{{userData.name}} - {{userData.surname}} - {{userData.lvl}}</h1><br>
+      <h2>{{userData.description}}</h2><br>
+    </div>
   </div>
   <!-- Terminal -->
   <div class="terminal">

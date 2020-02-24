@@ -11,6 +11,7 @@ import * as Names from './../assets/name.json';
 })
 export class AppComponent {
   title = 'digital-art';
+  public userData: Hero;
 
   test(data: any) {
     let identifier: string;
@@ -61,14 +62,15 @@ export class AppComponent {
     name = name * 100;
     lvl = lvl * 100;
 
-    let user: Hero = {
-      classe: Classe[Math.round(classe)], 
+    const user: Hero = {
+      classe: Classe[Math.round(classe)],
       surname: surnames[Math.round(surname)].name,
       description: surnames[Math.round(surname)].description,
       name: names[Math.round(name)].name,
+      path: 'assets/images/' + Classe[Math.round(classe)] + '.png',
       lvl: Math.round(lvl)
-    }
+    };
+    this.userData = user;
     console.log(user);
-
   }
 }
