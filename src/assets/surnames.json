@@ -1,0 +1,400 @@
+﻿{
+    "surnames": [
+        {
+            "name": "Yetta ",
+            "description": "First name means: \"To give.\""
+        },
+        {
+            "name": "Alodie",
+            "description": "First name means: \"Wealthy.\""
+        },
+        {
+            "name": "Edison ",
+            "description": "First name means: \"Son of Eda.\""
+        },
+        {
+            "name": "Carreen ",
+            "description": "First name means: \"Beautiful girl.\""
+        },
+        {
+            "name": "Shelby ",
+            "description": "First name means: \"Dweller at the ledge estate.\""
+        },
+        {
+            "name": "Winifred ",
+            "description": "First name means: \"Blessed peace.\""
+        },
+        {
+            "name": "Norma ",
+            "description": "First name means: \"Northern woman.\""
+        },
+        {
+            "name": "Darby ",
+            "description": "First name means: \"Free from envy.\""
+        },
+        {
+            "name": "Beda ",
+            "description": "First name means: \"Warrior maiden.\""
+        },
+        {
+            "name": "Nell ",
+            "description": "First name means: \"Diminutive of Helen.\""
+        },
+        {
+            "name": "Jancis ",
+            "description": "First name means: \"God is gracious.\""
+        },
+        {
+            "name": "Oletha ",
+            "description": "First name means: \"Nimble.\""
+        },
+        {
+            "name": "Wallis ",
+            "description": "First name means: \"From Wales; England.\""
+        },
+        {
+            "name": "Petula ",
+            "description": "First name means: \"To ask; to seek.\""
+        },
+        {
+            "name": "Benton ",
+            "description": "First name means: \"Bent grass.\""
+        },
+        {
+            "name": "Eadda ",
+            "description": "First name means: \"Wealthy; successful.\""
+        },
+        {
+            "name": "Kendall ",
+            "description": "First name means: \"Valley of the river Kent.\""
+        },
+        {
+            "name": "Osgar ",
+            "description": "First name means: \"God.\""
+        },
+        {
+            "name": "Baylee ",
+            "description": "First name means: \"Bailiff.\""
+        },
+        {
+            "name": "Cuthbert ",
+            "description": "First name means: \"Famous.\""
+        },
+        {
+            "name": "Lona ",
+            "description": "First name means: \"Solitary.\""
+        },
+        {
+            "name": "Osbert ",
+            "description": "First name means: \"God.\""
+        },
+        {
+            "name": "Hayden ",
+            "description": "First name means: \"Hay valley.\""
+        },
+        {
+            "name": "Beverly ",
+            "description": "First name means: \"Beaver stream.\""
+        },
+        {
+            "name": "Lana ",
+            "description": "First name means: \"Calm as still waters.\""
+        },
+        {
+            "name": "Lindon ",
+            "description": "First name means: \"From the lime tree hill.\""
+        },
+        {
+            "name": "Audrey ",
+            "description": "First name means: \"Strong and noble.\""
+        },
+        {
+            "name": "Doanne ",
+            "description": "First name means: \"Low hills.\""
+        },
+        {
+            "name": "Sutton ",
+            "description": "First name means: \"South town.\""
+        },
+        {
+            "name": "Riley ",
+            "description": "First name means: \"Rye clearing.\""
+        },
+        {
+            "name": "Cooper ",
+            "description": "First name means: \"Barrel maker.\""
+        },
+        {
+            "name": "Graeme ",
+            "description": "First name means: \"Grey house.\""
+        },
+        {
+            "name": "Braeden ",
+            "description": "First name means: \"Broad hill.\""
+        },
+        {
+            "name": "Melitta ",
+            "description": "First name means: \"Honey.\""
+        },
+        {
+            "name": "Alerio ",
+            "description": "First name means: \"Eagle.\""
+        },
+        {
+            "name": "Hortensius ",
+            "description": "First name means: \"Garden.\""
+        },
+        {
+            "name": "Anacletus ",
+            "description": "First name means: \"Called back; invoked.\""
+        },
+        {
+            "name": "Abelia ",
+            "description": "First name means: \"Honeysuckle.\""
+        },
+        {
+            "name": "Hasdrubal ",
+            "description": "First name means: \"Help of Ba'al.\""
+        },
+        {
+            "name": "Secundinus ",
+            "description": "First name means: \"Second.\""
+        },
+        {
+            "name": "Laverna ",
+            "description": "First name means: \"Spring-like; to be verdant.\""
+        },
+        {
+            "name": "Cælestis ",
+            "description": "First name means: \"Heavenly.\""
+        },
+        {
+            "name": "Adalricus ",
+            "description": "First name means: \"Noble ruler.\""
+        },
+        {
+            "name": "Clopas ",
+            "description": "First name means: \"My exchanges.\""
+        },
+        {
+            "name": "Theophylact ",
+            "description": "First name means: \"God-guard.\""
+        },
+        {
+            "name": "Angelus ",
+            "description": "First name means: \"Messenger.\""
+        },
+        {
+            "name": "Sextilius ",
+            "description": "First name means: \"Sixth.\""
+        },
+        {
+            "name": "Beringarius ",
+            "description": "First name means: \"Bear-spear.\""
+        },
+        {
+            "name": "Elshlag",
+            "description": "First name means: \"Very attractive.\""
+        },
+        {
+            "name": "Aleit ",
+            "description": "First name means: \"Noble sort.\""
+        },
+        {
+            "name": "Gerulf ",
+            "description": "First name means: \"Spear.\""
+        },
+        {
+            "name": "Aldric ",
+            "description": "First name means: \"Old.\""
+        },
+        {
+            "name": "Faramund ",
+            "description": "First name means: \"Journey.\""
+        },
+        {
+            "name": "Adelinde",
+            "description": "First name means: \"Gentle, friendly.\""
+        },
+        {
+            "name": "Gerde ",
+            "description": "First name means: \"Enclosure, stronghold.\""
+        },
+        {
+            "name": "Agilulf ",
+            "description": "First name means: \"Edge of the blade.\""
+        },
+        {
+            "name": "Irmalinda ",
+            "description": "First name means: \"Entirely gentle.\""
+        },
+        {
+            "name": "Elfrun ",
+            "description": "First name means: \"Systematic.\""
+        },
+        {
+            "name": "Badulf ",
+            "description": "First name means: \"Fight, struggle.\""
+        },
+        {
+            "name": "Salida ",
+            "description": "First name means: \"Happiness, joy.\""
+        },
+        {
+            "name": "Waldenburg ",
+            "description": "First name means: \"Salvation.\""
+        },
+        {
+            "name": "Carla ",
+            "description": "First name means: \"Freeholder.\""
+        },
+        {
+            "name": "Athaulf ",
+            "description": "First name means: \"Father.\""
+        },
+        {
+            "name": "Farvald ",
+            "description": "First name means: \"Journey.\""
+        },
+        {
+            "name": "Lothar ",
+            "description": "First name means: \"Famous army.\""
+        },
+        {
+            "name": "Bertram ",
+            "description": "First name means: \"Bright raven.\""
+        },
+        {
+            "name": "Goteleib ",
+            "description": "First name means: \"God.\""
+        },
+        {
+            "name": "Baugulf ",
+            "description": "First name means: \"Bend, flex.\""
+        },
+        {
+            "name": "Deorwine ",
+            "description": "First name means: \"Dear.\""
+        },
+        {
+            "name": "Irmela ",
+            "description": "First name means: \"Universal.\""
+        },
+        {
+            "name": "Lotti ",
+            "description": "First name means: \"Masculine.\""
+        },
+        {
+            "name": "Gisbert ",
+            "description": "First name means: \"Bright.\""
+        },
+        {
+            "name": "Ludgera ",
+            "description": "First name means: \"People, spear.\""
+        },
+        {
+            "name": "Camran ",
+            "description": "First name means: \"Bent nose.\""
+        },
+        {
+            "name": "Brónach ",
+            "description": "First name means: \"Sorrow.\""
+        },
+        {
+            "name": "Mairéad ",
+            "description": "First name means: \"Pearl.\""
+        },
+        {
+            "name": "Caoimhe ",
+            "description": "First name means: \"Kind, tender.\""
+        },
+        {
+            "name": "Artair ",
+            "description": "First name means: \"Bear; or stone.\""
+        },
+        {
+            "name": "Dearbhail ",
+            "description": "First name means: \"True desire.\""
+        },
+        {
+            "name": "Oisian ",
+            "description": "First name means: \"Deer.\""
+        },
+        {
+            "name": "Odhran ",
+            "description": "First name means: \"Dun-colored.\""
+        },
+        {
+            "name": "Ciara ",
+            "description": "First name means: \"Little black one.\""
+        },
+        {
+            "name": "Flannagan ",
+            "description": "First name means: \"Blood-red.\""
+        },
+        {
+            "name": "Tuilelaith ",
+            "description": "First name means: \"Abundance.\""
+        },
+        {
+            "name": "Catan ",
+            "description": "First name means: \"Small cat.\""
+        },
+        {
+            "name": "Ròidh ",
+            "description": "First name means: \"Reddish.\""
+        },
+        {
+            "name": "Eòghann ",
+            "description": "First name means: \"Well born, youth.\""
+        },
+        {
+            "name": "Sòlas ",
+            "description": "First name means: \"Joy, comfort, solace.\""
+        },
+        {
+            "name": "Slàinte ",
+            "description": "First name means: \"Health.\""
+        },
+        {
+            "name": "Manachan ",
+            "description": "First name means: \"A monk.\""
+        },
+        {
+            "name": "Caitríona ",
+            "description": "First name means: \"Pure.\""
+        },
+        {
+            "name": "Beathan ",
+            "description": "First name means: \"Child of life.\""
+        },
+        {
+            "name": "Máirín ",
+            "description": "First name means: \"Obstinate.\""
+        },
+        {
+            "name": "Conan ",
+            "description": "First name means: \"Wee doggie.\""
+        },
+        {
+            "name": "Cairbre ",
+            "description": "First name means: \"Charioteer, or bearer.\""
+        },
+        {
+            "name": "Failbhe ",
+            "description": "First name means: \"Lively; spritely, wolf-slayer.\""
+        },
+        {
+            "name": "Faolagan ",
+            "description": "First name means: \"Form of Faolan.\""
+        },
+        {
+            "name": "Gormal ",
+            "description": "First name means: \"Deep-blue eyes.\""
+        },
+        {
+            "name": "Praiphus",
+            "description": "First name means: \"Strong man.\""
+        }
+    ]
+}
